@@ -2,8 +2,7 @@ package main
 
 import (
 	"fmt"
-
-	bank "com.example/kartik/Bank"
+	bank "github.com/kartik1112/bank-cli-tool-go.git/Bank"
 )
 
 
